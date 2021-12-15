@@ -1,10 +1,11 @@
 #INTRODUCTION
 
 #SECTION1
-       This part is changed from userB
-
+     
 #SECTION2
+            This part is changed by userB
 
 #CONCLUSION
+             This part is changed by userB
 
 #COPYRIGHT
